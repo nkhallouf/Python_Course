@@ -13,12 +13,8 @@ This project was built as a learning resource and personal reference. The conten
 
 ---
 
-## ⚠️ Disclaimer
 
-> This project is intended **for educational and personal use only**.
->
-> I do **not** claim ownership of any third-party content referenced or summarized here. 
->
+
 
 
 
